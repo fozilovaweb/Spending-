@@ -8,7 +8,7 @@ function CardTop() {
         <span className="font -bold text-light text-[2rem]">$921.48</span>
       </div>
       <img
-        src="../../public/Group 3.svg"
+        src="../../public/Group3.svg"
         alt="Rounds iamges"
         width={72}
         height={48}
